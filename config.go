@@ -10,8 +10,8 @@ package raft
 
 import (
 	"bytes"
-	"cs351/labgob"
-	"cs351/labrpc"
+	"Raft/labgob"
+	"Raft/labrpc"
 	"log"
 	"math/rand"
 	"runtime"
