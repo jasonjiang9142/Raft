@@ -10,7 +10,7 @@ This project follows the design outlined in the **extended Raft paper**, focusin
 
 The implementation is split into two parts:
 - **Part A:** Leader election and heartbeats.
-- **Part 3B:** Log replication and agreement.
+- **Part B:** Log replication and agreement.
 
 ## Features
 
